@@ -1,0 +1,35 @@
+body {
+    font-size: 15pt;
+}
+
+
+a{
+ text-decoration: none;
+ border-radius: 20px;
+ 
+}
+
+a:hover{
+ color: red;
+}
+
+
+button{
+ background-color: lightblue;
+ border-radius: 20px;
+ font-size: 15pt;
+}
+
+.a1 {
+ color: darkcyan;
+}
+
+
+.logo {
+ color: peru;
+ border: dotted;
+ border-color: lime;
+ 
+}
+
+
